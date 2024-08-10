@@ -5,6 +5,8 @@
 ## Understanding the Audience
 How do you determine whether your audience is tech-savvy or not when writing technical documents?
 
+To determine whether your audience is tech-savvy, consider their background and experience level with the subject matter. Analyze the context in which the document will be used—if it's intended for industry professionals, a higher level of technical detail is appropriate. Conversely, if it's for general users or beginners, you may need to simplify explanations. You can also gather information through user surveys or feedback to understand their expertise.
+
 In what ways can you adjust your writing style to better suit a non-expert audience while maintaining accuracy?
 
 ## Clarity and Simplicity
